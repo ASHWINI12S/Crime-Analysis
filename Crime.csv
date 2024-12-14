@@ -1,0 +1,101 @@
+CrimeID,CrimeType,DateReported,Location,Description,OfficerID
+1,Robbery,07-07-2024,123 Elm St,Armed robbery at convenience store,8
+2,Assault,08-07-2024,456 Oak St,Physical assault in public park,6
+3,Burglary,09-07-2024,789 Pine St,Burglary at residential home,10
+4,Theft,10-07-2024,234 Maple Ave,Theft of vehicle,8
+5,Fraud,11-07-2024,567 Birch St,Online financial scam,8
+6,Arson,12-07-2024,890 Cedar Rd,Arson at abandoned building,1
+7,Robbery,13-07-2024,321 Cedar Rd,Robbery at gas station,5
+8,Assault,14-07-2024,678 Oak St,Assault during altercation,4
+9,Burglary,15-07-2024,910 Birch St,Burglary at office building,5
+10,Theft,16-07-2024,123 Elm St,Theft of personal belongings,6
+11,Fraud,17-07-2024,456 Oak St,Investment fraud,4
+12,Arson,18-07-2024,789 Pine St,Arson at auto repair shop,5
+13,Robbery,19-07-2024,234 Maple Ave,Armed robbery at ATM,9
+14,Assault,20-07-2024,567 Birch St,Domestic assault,6
+15,Burglary,21-07-2024,890 Cedar Rd,Burglary at warehouse,9
+16,Theft,22-07-2024,321 Cedar Rd,Theft of electronics,7
+17,Fraud,23-07-2024,678 Oak St,Insurance fraud,5
+18,Arson,24-07-2024,910 Birch St,Arson at construction site,6
+19,Robbery,25-07-2024,123 Elm St,Robbery at jewelry store,10
+20,Assault,26-07-2024,456 Oak St,Assault with weapon,10
+21,Burglary,27-07-2024,789 Pine St,Home burglary,9
+22,Theft,28-07-2024,234 Maple Ave,Theft of bicycle,10
+23,Fraud,29-07-2024,567 Birch St,Credit card fraud,5
+24,Arson,30-07-2024,890 Cedar Rd,Arson at storage facility,5
+25,Robbery,31-07-2024,321 Cedar Rd,Robbery at bank,2
+26,Assault,01-08-2024,678 Oak St,Assault at nightclub,4
+27,Burglary,02-08-2024,910 Birch St,Burglary at retail store,3
+28,Theft,03-08-2024,123 Elm St,Theft of laptop,7
+29,Fraud,04-08-2024,456 Oak St,Investment scam,9
+30,Arson,05-08-2024,789 Pine St,Arson at residential building,4
+31,Robbery,06-08-2024,234 Maple Ave,Robbery at bank,6
+32,Assault,07-08-2024,567 Birch St,Assault with intent to harm,6
+33,Burglary,08-08-2024,890 Cedar Rd,Burglary at garage,3
+34,Theft,09-08-2024,321 Cedar Rd,Theft of jewelry,2
+35,Fraud,10-08-2024,678 Oak St,Fraudulent loan application,10
+36,Arson,11-08-2024,910 Birch St,Arson at old factory,1
+37,Robbery,12-08-2024,123 Elm St,Robbery at restaurant,9
+38,Assault,13-08-2024,456 Oak St,Assault during fight,1
+39,Burglary,14-08-2024,789 Pine St,Burglary at garage,5
+40,Theft,15-08-2024,234 Maple Ave,Theft of tools,1
+41,Fraud,16-08-2024,567 Birch St,Email phishing scam,4
+42,Arson,17-08-2024,890 Cedar Rd,Arson at business premises,2
+43,Robbery,18-08-2024,321 Cedar Rd,Robbery at convenience store,7
+44,Assault,19-08-2024,678 Oak St,Assault in public area,3
+45,Burglary,20-08-2024,910 Birch St,Burglary at workshop,9
+46,Theft,21-08-2024,123 Elm St,Theft of car parts,5
+47,Fraud,22-08-2024,456 Oak St,Tax fraud,5
+48,Arson,23-08-2024,789 Pine St,Arson at apartment complex,7
+49,Robbery,24-08-2024,234 Maple Ave,Robbery at gas station,3
+50,Assault,25-08-2024,567 Birch St,Assault at home,3
+51,Burglary,26-08-2024,890 Cedar Rd,Burglary at farm,9
+52,Theft,27-08-2024,321 Cedar Rd,Theft of electronics,7
+53,Fraud,28-08-2024,678 Oak St,Online shopping fraud,8
+54,Arson,29-08-2024,910 Birch St,Arson at office building,1
+55,Robbery,30-08-2024,123 Elm St,Robbery at warehouse,7
+56,Assault,31-08-2024,456 Oak St,Assault with injuries,3
+57,Burglary,01-09-2024,789 Pine St,Burglary at studio,10
+58,Theft,02-09-2024,234 Maple Ave,Theft of camera,4
+59,Fraud,03-09-2024,567 Birch St,Fraudulent insurance claim,2
+60,Arson,04-09-2024,890 Cedar Rd,Arson at empty house,10
+61,Robbery,05-09-2024,321 Cedar Rd,Robbery at jewelry store,2
+62,Assault,06-09-2024,678 Oak St,Assault at parking lot,6
+63,Burglary,07-09-2024,910 Birch St,Burglary at hotel,2
+64,Theft,08-09-2024,123 Elm St,Theft of handbag,6
+65,Fraud,09-09-2024,456 Oak St,Online fraud,7
+66,Arson,10-09-2024,789 Pine St,Arson at school,1
+67,Robbery,11-09-2024,234 Maple Ave,Robbery at pharmacy,7
+68,Assault,12-09-2024,567 Birch St,Assault at workplace,1
+69,Burglary,13-09-2024,890 Cedar Rd,Burglary at bank,1
+70,Theft,14-09-2024,321 Cedar Rd,Theft of wallet,2
+71,Fraud,15-09-2024,678 Oak St,Account fraud,4
+72,Arson,16-09-2024,910 Birch St,Arson at restaurant,10
+73,Robbery,17-09-2024,123 Elm St,Robbery at mall,4
+74,Assault,18-09-2024,456 Oak St,Assault with firearm,5
+75,Burglary,19-09-2024,789 Pine St,Burglary at supermarket,6
+76,Theft,20-09-2024,234 Maple Ave,Theft of bicycle parts,10
+77,Fraud,21-09-2024,567 Birch St,Loan fraud,6
+78,Arson,22-09-2024,890 Cedar Rd,Arson at abandoned house,3
+79,Robbery,23-09-2024,321 Cedar Rd,Robbery at electronics store,7
+80,Assault,24-09-2024,678 Oak St,Assault in bar,5
+81,Burglary,25-09-2024,910 Birch St,Burglary at clinic,5
+82,Theft,26-09-2024,123 Elm St,Theft of cash,7
+83,Fraud,27-09-2024,456 Oak St,Corporate fraud,3
+84,Arson,28-09-2024,789 Pine St,Arson at park,4
+85,Robbery,29-09-2024,234 Maple Ave,Robbery at jewelry store,2
+86,Assault,30-09-2024,567 Birch St,Assault in hospital,9
+87,Burglary,01-10-2024,890 Cedar Rd,Burglary at school,4
+88,Theft,02-10-2024,321 Cedar Rd,Theft of mobile phone,6
+89,Fraud,03-10-2024,678 Oak St,Insurance scam,5
+90,Arson,04-10-2024,910 Birch St,Arson at garage,7
+91,Robbery,05-10-2024,123 Elm St,Robbery at grocery store,9
+92,Assault,06-10-2024,456 Oak St,Assault during protest,1
+93,Burglary,07-10-2024,789 Pine St,Burglary at dormitory,9
+94,Theft,08-10-2024,234 Maple Ave,Theft of paintings,10
+95,Fraud,09-10-2024,567 Birch St,Social media fraud,6
+96,Arson,10-10-2024,890 Cedar Rd,Arson at old factory,1
+97,Robbery,11-10-2024,321 Cedar Rd,Robbery at casino,10
+98,Assault,12-10-2024,678 Oak St,Assault at gym,4
+99,Burglary,13-10-2024,910 Birch St,Burglary at lab,4
+100,Theft,14-10-2024,123 Elm St,Theft of bike,5
